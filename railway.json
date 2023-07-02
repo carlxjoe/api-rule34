@@ -6,7 +6,7 @@
   },
   "deploy": {
     "startCommand": "echo starting!",
-    "healthcheckPath": "/",
+    "healthcheckPath": "/api-rule34",
     "healthcheckTimeout": 100,
     "restartPolicyType": "never"
   }
